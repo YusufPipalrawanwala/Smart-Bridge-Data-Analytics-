@@ -24,10 +24,16 @@ How can global heritage conservation efforts be better visualized for public awa
 🎯 Project Objectives
 
 ✅ Provide an engaging visual exploration of the UNESCO Sites dataset
+
 ✅ Break down heritage sites by type, country, and region
+
 ✅ Show temporal patterns of heritage site listings
+
 ✅ Highlight top-ranking countries and regions in heritage site counts
+
 ✅ Deliver interactive and filter-enabled dashboards for deeper insights
+
+
 
 📁 Dataset Details
 
@@ -45,3 +51,52 @@ Tableau Desktop	Data Visualization & Dashboard Design
 Tableau Public	Online Publishing & Sharing
 Microsoft Excel / Python (Optional)	Data Cleaning & Preprocessing
 GitHub	Version Control & Documentation Repository
+
+
+📂 Folder Structure - 
+
+Assignments/
+ ├─ Assignment_1_Yusuf_Pipalranwala.html
+ ├─ Assignment_2_Yusuf_Pipalranwala.html
+ ├─ Assignment_3_Yusuf_Pipalranwala.html
+ ├─ Assignment_1_2_and_3_Yusuf_Pipalranwala.twbx
+ ├─ Assignment_1_2_and_3_Sorted_Data.xlsx
+
+Ideation_Phase/
+ ├─ Brainstorming.pdf
+ ├─ Empathy_Map.pdf
+ └─ Problem_Statement.pdf
+
+Requirement_Analysis/
+ ├─ Customer_Journey_Map.pdf
+ ├─ Data_Flow_Diagram.pdf
+ ├─ Functional_Requirements.pdf
+ ├─ Non_Functional_Requirements.pdf
+ └─ Technology_Stack.pdf
+
+Project_Design_Phase/
+ ├─ Problem_Solution_Fit.pdf
+ ├─ Proposed_Solution.pdf
+ ├─ Solution_Architecture.pdf
+ └─ Architecture_Diagram.png
+
+Project_Planning_Phase/
+ └─ Project_Planning_Template.pdf
+
+Project_Execution/
+ ├─ Dataset/
+ │   └─ index_of_economic_freedom.csv
+ ├─ Tableau_Files/
+ │   └─ Final_Dashboard.twbx
+ ├─ Screenshots/
+ │   ├─ Dashboard_Screenshots/
+ │   └─ Report_Screenshots/
+ └─ Tableau_Links.txt
+
+Functional_and_Performance_Testing/
+ └─ Performance_Testing_Report.pdf
+
+Documentation_and_Demo/
+ ├─ Final_Report.pdf
+ └─ Video_Demo_Link.txt
+
