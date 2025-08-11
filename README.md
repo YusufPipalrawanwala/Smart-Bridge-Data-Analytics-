@@ -1,5 +1,17 @@
 📜 Exploring the World’s Heritage: UNESCO World Heritage Sites Data Analytics
 
+Important Links – 
+•	Tableau Public Desktop link – https://public.tableau.com/views/YusufPipalrawanwalaFinalProject/WorldHeritageSites?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+•	Excel File Link – https://avantikaeduin-my.sharepoint.com/:x:/g/personal/yusuf_pipalrawanwala_avantika_edu_in/EbYOwcy1_8BGhv9n_cYiWVsB0nQT5TGGEHnsux_qFjVolQ?e=ArdTvO
+
+•	Source Code:  https://drive.google.com/drive/folders/1ZspEmb4ha9LxbaOwOlHVpDhILIVGnFy7?usp=sharing
+
+•	Dataset Link: https://drive.google.com/file/d/1VM1ewCCXigm0GXgplvBV3SoPoxURUQDv/view?usp=sharing
+
+•	GitHub & Project Demo Link: https://github.com/YusufPipalrawanwala/Smart-Bridge-Data-Analytics-/tree/main
+
+
 Welcome to the official repository for the "Exploring the World’s Heritage" project — an interactive Tableau-based data visualization initiative designed to uncover insights and patterns from the UNESCO World Heritage Sites dataset.
 
 This project was developed as part of the Smart Bridge Data Analytics Program on Tableau, undertaken by Yusuf Pipalrawanwala from Avantika University.
